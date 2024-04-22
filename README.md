@@ -6,12 +6,10 @@ A beautiful Car Rental App UI designed and developed by Martin Gogołowicz. This
 ## Screenshots
 
 ### Light Mode ⚪
-![Light Mode 1](lightMode1.jpg)
-![Light Mode 2](lightMode2.jpg)
+![Light Mode 1](https://i.imgur.com/ZPC30Xn.png)
 
 ### Dark Mode ⚫
-![Dark Mode 1](darkMode1.jpg)
-![Dark Mode 2](darkMode2.jpg)
+![Dark Mode 1](https://i.imgur.com/0OnfRgp.png)
 
 ## Features
 
@@ -27,6 +25,7 @@ A beautiful Car Rental App UI designed and developed by Martin Gogołowicz. This
 ## UI Inspiration
 
 The UI design of this app is inspired by [Car Rental Mobile App](https://dribbble.com/shots/17164272-Car-Rental-Mobile-App/attachments/12263858?mode=media) on Dribbble.
+![Inspiration](https://i.imgur.com/Fkxx7vd.png)
 
 ## Getting Started
 
