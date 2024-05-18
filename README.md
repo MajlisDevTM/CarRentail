@@ -1,7 +1,7 @@
 # CarRentail
 ## Flutter Car Rental App UI
 
-A beautiful Car Rental App UI designed and developed by Martin Gogołowicz. This app is built using Flutter 2.8.1 with Null Safety, making it reliable and robust. It supports both Light and Dark modes seamlessly, providing an engaging user experience in any environment.
+A beautiful Car Rental App . This app is built using Flutter 2.8.1 with Null Safety, making it reliable and robust. It supports both Light and Dark modes seamlessly, providing an engaging user experience in any environment.
 
 ## Screenshots
 
